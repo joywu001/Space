@@ -49,6 +49,7 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -65,6 +66,7 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -88,6 +90,7 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -97,6 +100,7 @@
             "fullManagedTypeName": "",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -113,6 +117,7 @@
             "fullManagedTypeName": "",
             "moduleName": "AI",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -185,6 +190,7 @@
             "fullManagedTypeName": "UnityEditor.MonoScript",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -236,6 +242,7 @@
             "fullManagedTypeName": "UnityEngine.AudioBehaviour",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -245,6 +252,7 @@
             "fullManagedTypeName": "UnityEngine.AudioListener",
             "moduleName": "Audio",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -254,6 +262,7 @@
             "fullManagedTypeName": "UnityEngine.Behaviour",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -263,6 +272,7 @@
             "fullManagedTypeName": "UnityEngine.BoxCollider",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -272,6 +282,7 @@
             "fullManagedTypeName": "UnityEngine.Camera",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -281,6 +292,7 @@
             "fullManagedTypeName": "UnityEngine.CapsuleCollider",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -290,6 +302,7 @@
             "fullManagedTypeName": "UnityEngine.Collider",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -299,6 +312,7 @@
             "fullManagedTypeName": "UnityEngine.Component",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -308,6 +322,7 @@
             "fullManagedTypeName": "UnityEngine.Cubemap",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -317,6 +332,7 @@
             "fullManagedTypeName": "UnityEngine.GameObject",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -368,6 +384,7 @@
             "fullManagedTypeName": "UnityEngine.Light",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -377,6 +394,7 @@
             "fullManagedTypeName": "UnityEngine.LightmapSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -386,6 +404,7 @@
             "fullManagedTypeName": "UnityEngine.Material",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -395,6 +414,7 @@
             "fullManagedTypeName": "UnityEngine.Mesh",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -404,6 +424,7 @@
             "fullManagedTypeName": "UnityEngine.MeshCollider",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -413,6 +434,7 @@
             "fullManagedTypeName": "UnityEngine.MeshFilter",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -422,6 +444,7 @@
             "fullManagedTypeName": "UnityEngine.MeshRenderer",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -431,6 +454,7 @@
             "fullManagedTypeName": "UnityEngine.MonoBehaviour",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -440,6 +464,7 @@
             "fullManagedTypeName": "UnityEngine.Object",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -449,6 +474,7 @@
             "fullManagedTypeName": "UnityEngine.ParticleSystem",
             "moduleName": "ParticleSystem",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -458,6 +484,7 @@
             "fullManagedTypeName": "UnityEngine.ParticleSystemRenderer",
             "moduleName": "ParticleSystem",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -474,6 +501,7 @@
             "fullManagedTypeName": "UnityEngine.Renderer",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -490,6 +518,7 @@
             "fullManagedTypeName": "UnityEngine.RenderSettings",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -499,6 +528,7 @@
             "fullManagedTypeName": "UnityEngine.Rigidbody",
             "moduleName": "Physics",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -508,6 +538,7 @@
             "fullManagedTypeName": "UnityEngine.Shader",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -524,6 +555,7 @@
             "fullManagedTypeName": "UnityEngine.TextAsset",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -533,6 +565,7 @@
             "fullManagedTypeName": "UnityEngine.Texture",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -542,6 +575,7 @@
             "fullManagedTypeName": "UnityEngine.Texture2D",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         },
@@ -551,6 +585,7 @@
             "fullManagedTypeName": "UnityEngine.Transform",
             "moduleName": "Core",
             "usedInScenes": [
+                "Assets/Scenes/AsteroidsScene.unity",
                 "Assets/Scenes/SampleScene.unity"
             ]
         }
@@ -3167,6 +3202,10 @@
     ],
     "forceIncludeModules": [],
     "forceExcludeModules": [
-        "NVIDIA"
+        "AR",
+        "ClusterInput",
+        "ClusterRenderer",
+        "NVIDIA",
+        "VirtualTexturing"
     ]
 }
